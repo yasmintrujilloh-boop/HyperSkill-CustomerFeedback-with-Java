@@ -1,0 +1,45 @@
+# Build directories
+build/
+.gradle/
+out/
+dist/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gradle wrapper
+.gradle/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# HyperSkill files (excluded)
+course-info.yaml
+course-remote-info.yaml
+task-info.yaml
+task-remote-info.yaml
+task.html
+lesson-info.yaml
+
+# Test reports
+test-results/
+reports/
+
+# Java
+*.jar
+*.war
+*.ear
+
