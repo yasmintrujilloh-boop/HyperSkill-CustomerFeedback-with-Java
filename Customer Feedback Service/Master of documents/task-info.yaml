@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/feedbackservice/FeedbackApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/FeedbackItem.java
+    visible: true
+    learner_created: false
+  - name: test/FeedbackServiceTests.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/409/stages/2395/implement#comment
+status: Solved
+record: -1
